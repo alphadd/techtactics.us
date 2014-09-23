@@ -1,0 +1,29 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 2871903, 2014-08-26T14:44:59-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: Ronsard Crystal ExtraBold by Red Rooster Collection
+ * URL: http://www.myfonts.com/fonts/redrooster/ronsard-crystal/extra-bold/
+ * Copyright: Copyright (c) 2009 by International TypeFounders, Inc. All rights reserved.
+ * Licensed pageviews: 10,000
+ * 
+ * 
+ * License: http://www.myfonts.com/viewlicense?type=web&buildid=2871903
+ * 
+ * © 2014 MyFonts Inc
+*/
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/2bd25f");
+
+@font-face {
+    font-family: 'RonsardCrystal-ExtraBold';
+    src: url('webfonts/2BD25F_0_0.eot');
+    src: url('webfonts/2BD25F_0_0.eot?#iefix') format('embedded-opentype'), url('webfonts/2BD25F_0_0.woff') format('woff'), url('webfonts/2BD25F_0_0.ttf') format('truetype');
+}
+ 
